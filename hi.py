@@ -1,2 +1,1 @@
-print("Hi all")
-print(5+5)
+print "Hi all"
